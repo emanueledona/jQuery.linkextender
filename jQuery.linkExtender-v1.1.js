@@ -35,6 +35,7 @@
    	  	'_targetBlank'		:	false		// open in new window the link
 		,'_disableLink'		:	true		// disable the source link function
 		,'_targetLinkClass'	:	false		// return the link with the specific class 
+		,'_ga'				:	false		// google 
      };
 
    if (settings) $.extend(config, settings);
