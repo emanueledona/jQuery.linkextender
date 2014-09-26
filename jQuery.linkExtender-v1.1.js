@@ -36,6 +36,7 @@
 		,'_disableLink'		:	true		// disable the source link function
 		,'_targetLinkClass'	:	false		// return the link with the specific class 
 		,'_ga'				:	false		// google 
+		,'_ga2'				:	false		// google 
      };
 
    if (settings) $.extend(config, settings);
